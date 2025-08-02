@@ -2,7 +2,7 @@
 
 ```bash
 
-bash <(curl -sSL https://raw.githubusercontent.com/whoopsme1337/pipe-cli/main/setup.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/pipenetwork/pipe/main/setup.sh)
 
 ```
 
