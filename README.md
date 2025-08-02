@@ -2,7 +2,7 @@
 
 ```bash
 
-bash <(curl -sSL https://raw.githubusercontent.com/pipenetwork/pipe/main/setup.sh)
+wget https://github.com/PipeNetwork/pipe/archive/refs/tags/alpha1.tar.gz && tar -xvf alpha1.tar.gz && cd pipe-alpha1 && bash setup.sh && export PATH="$HOME/.cargo/bin:$PATH"
 
 ```
 
